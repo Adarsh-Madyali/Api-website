@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #3d96d6;
+}
+
+h2 {
+    color: #333;
+}
+
+#fact {
+    font-size: 18px;
+    margin: 20px;
+    color: #fbfbfc;
+}
+
+button {
+    padding: 8px 15px;
+    font-size: 14px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
+
+div {
+    width: 600px;      
+    height: 200px;     
+    border: 2px solid pink;
+    padding: 20px;
+    margin: 100px auto;   
+    text-align: center;
+}
